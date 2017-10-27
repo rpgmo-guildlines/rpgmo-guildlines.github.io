@@ -1,0 +1,12 @@
+主畫面 main
+- 怎麼玩? how to play?
+- 戰鬥 combat
+- 怪物 mob
+- NPC交易 NPC trade
+- 市場 players' market
+- 地圖 map
+- 島嶼 island
+- 生活技能 gathering & crafting skills
+- 隊伍任務 Party Quest
+- 網頁地圖 overview
+- Credit
